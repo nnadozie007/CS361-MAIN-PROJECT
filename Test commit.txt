@@ -1,1 +1,1 @@
-text file to test commit to github repository.
+Text file to test commit to github repository.
